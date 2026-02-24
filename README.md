@@ -1,4 +1,4 @@
-### A NOVEL FRAMEWORK TO MITIGATE MENTAL HEALTH ISSUES USING NLP<img width="1795" height="239" alt="image" src="https://github.com/user-attachments/assets/118fde17-2213-4eda-aa3e-b2b3813e68a9" />
+### A NOVEL FRAMEWORK TO MITIGATE MENTAL HEALTH ISSUES USING NLP
 [Major review 3 final (1).pptx](https://github.com/Manasaramaka/project/files/8769526/Major.review.3.final.1.pptx)
 
 ## Abstract
